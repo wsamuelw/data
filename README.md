@@ -1,2 +1,2 @@
 # data
-some toy data
+a collection of some toy data
